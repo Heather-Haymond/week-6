@@ -14,7 +14,7 @@ class Card {
     }
   }
 }
-
+//this creates 52 cards
 class Deck {
   constructor() {
     this.cards = [];
